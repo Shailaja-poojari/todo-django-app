@@ -10,9 +10,6 @@ A simple web-based To-Do List application built with **Django** that supports fu
 -  Delete tasks
 -  Built using Django (Backend + Templating)
 
-## 📸 Screenshots
-
-> _You can add screenshots here using `![screenshot](path/to/image)` if needed._
 
 ## 📦 Installation
 
