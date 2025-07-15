@@ -1,8 +1,8 @@
-# 📝 Django To-Do List CRUD App
+#  Django To-Do List CRUD App
 
 A simple web-based To-Do List application built with **Django** that supports full CRUD operations — Create, Read, Update, and Delete tasks.
 
-## 🚀 Features
+##  Features
 
 -  Add new tasks
 -  View task list
@@ -10,8 +10,13 @@ A simple web-based To-Do List application built with **Django** that supports fu
 -  Delete tasks
 -  Built using Django (Backend + Templating)
 
+##  Tech Stack
 
-## 📦 Installation
+- Django (Backend + Templating)
+- SQLite (Default DB)
+- HTML/CSS (via Django templates)
+
+##  Installation
 
 1. Clone this repo:
 
